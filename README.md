@@ -6,3 +6,12 @@ Files are explicitly added to stagging area
 
 #Git Repository
 Where all snapshots are saved
+==================================
+
+# Git Branches
+
+-listing all branches
+-Adding a branch
+-Changing branches
+-Merging a branch
+-Removing a branch
